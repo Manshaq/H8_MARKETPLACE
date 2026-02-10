@@ -1,0 +1,8 @@
+{
+  "name": "H8 MARKETPLACE",
+  "description": "Premium marketplace for electronics, sports gear, and lifestyle essentials that make life easy.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
